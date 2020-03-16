@@ -1,4 +1,7 @@
 ## This is the linear regression code using R for reproducing the analysis of prostate cancer data. 
+## REFERENCE
+### [1] http://homepages.math.uic.edu/~jyang06/stat494/R/3_2_1.r
+### [2] https://rdrr.io/cran/ElemStatLearn/man/prostate.html
 ## Codes
 ### you can check the codes in the file _linear_regression.R_ or _LinearRegression_codes_
 ## Outputs
