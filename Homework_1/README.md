@@ -7,7 +7,7 @@
 
 * Predictors Correlation 
 
-![Predictors Correlation]("https://github.com/ydcnanhe/Statistic-ML-Homework/Homework_1/Correlation.png")
+![Predictors Correlation]("https://github.com/ydcnanhe/Statistic-ML-Homework/tree/master/Homework_1/Correlation.png")
 
 * Table of correlation
 
@@ -31,15 +31,17 @@
 | RSS | 44.52858 | 37.09185 | 34.90775 | 32.81499 | 32.06945 | 30.53978 | 29.43730 | 29.42638 | 
 
 * Histogram of Subsection Model Size
-![Histogram of Subsection Model Size]("https://github.com/ydcnanhe/Statistic-ML-Homework/Homework_1/HistLeapsModelSize.png")
+
+![Histogram of Subsection Model Size]("https://github.com/ydcnanhe/Statistic-ML-Homework/tree/master/Homework_1/HistLeapsModelSize.png")
 
 * Subset RSS
-![Subset RSS]("https://github.com/ydcnanhe/Statistic-ML-Homework/Homework_1/subsetRSS.png")
+
+![Subset RSS]("https://github.com/ydcnanhe/Statistic-ML-Homework/tree/master/Homework_1/subsetRSS.png")
 
 3. Ridge
 
-![Ridge]("https://github.com/ydcnanhe/Statistic-ML-Homework/Homework_1/Ridge.png")
+![Ridge]("https://github.com/ydcnanhe/Statistic-ML-Homework/tree/master/Homework_1/Ridge.png")
 
 4. Lasso
 
-![Lasso]("https://github.com/ydcnanhe/Statistic-ML-Homework/Homework_1/Lasso.png")
+![Lasso]("https://github.com/ydcnanhe/Statistic-ML-Homework/tree/master/Homework_1/Lasso.png")
